@@ -2,6 +2,23 @@
     font-family: sans-serif;
 }
 
+.container {
+    width: 800px;
+}
+
 img {
     width: 300px;
+}
+
+h1 {
+    background-color: darkcyan;
+    width: max-content;
+    border-radius: 5px;
+    border: 5px solid darkgreen;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 600;
 }
